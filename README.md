@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amdrejr
-- 👀 I’m interested in be a Mobile Dev 📲
+- 👋 Hi, I’m **@amdrejr**
+- 👀 I'm studying Computer Engineering 🔧💻
 - 🌱 I’m currently learning Flutter!
-- 📫 How to reach me: Instagram @amdrejr
+- 📫 How to reach me: **Instagram _@amdrejr_**
 
 <!---
 amdrejr/amdrejr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
