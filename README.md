@@ -14,29 +14,31 @@ ptei por sair do meu último emprego (área de **Customer Success**) para poder 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amdrejr&layout=compact&show_icons=true&theme=radical)](https://github.com/amdrejr/github-readme-stats)
 </div>
 
-##
 
-<div class="languages">
-  <img src="assets/images/icos/ico-javascript.png" alt="JavaScript Ícone">
-  <img src="assets/images/icos/ico-css.png" alt="CSS Ícone">
-  <img src="assets/images/icos/ico-html.png" alt="HTML Ícone">
-  <img src="assets/images/icos/ico-python.png" alt="Python Ícone">
-  <img src="assets/images/icos/ico-react.png" alt="React Ícone">
-  <img src="assets/images/icos/ico-react-native.png" alt="React-Native Ícone">
+
+<div class="languages" align="center">
+  <h2>Linguagens</h2>
+  <img src="assets/images/icos/ico-javascript.png" alt="JavaScript Ícone"> &nbsp &nbsp
+  <img src="assets/images/icos/ico-css.png" alt="CSS Ícone"> &nbsp &nbsp
+  <img src="assets/images/icos/ico-html.png" alt="HTML Ícone"> &nbsp &nbsp
+  <br>
+  <br>
+  <img src="assets/images/icos/ico-python.png" alt="Python Ícone"> &nbsp &nbsp
+  <img src="assets/images/icos/ico-react.png" alt="React Ícone"> &nbsp &nbsp
+  <img src="assets/images/icos/ico-react-native.png" alt="React-Native Ícone"> &nbsp &nbsp
   <img src="assets/images/icos/ico-flutter.png" alt="Flutter Ícone">
 </div>
 
 ##
 
-##
-
-<div class="social-medias">
+<div class="social-medias" align="center">
+  <h2>Minhas redes</h2> 
   <a href="https://www.instagram.com/amdrejr/" target="_blank" title="Meu Instagram">
     <img src="assets/images/icos/instagram-ico.png" alt="Instagram Ícone">
-  </a>
+  </a>&nbsp &nbsp
   <a href="https://www.linkedin.com/in/andre-junior/" target="_blank" title="Meu LinkedIn">
     <img src="assets/images/icos/linkedin-ico.png" alt="Linkedin Ícone">
-  </a>
+  </a>&nbsp &nbsp
   <a href="https://github.com/amdrejr" target="_blank" title="Meu GitHub">
     <img src="assets/images/icos/github-ico.png" alt="Github Ícone">
   </a>
