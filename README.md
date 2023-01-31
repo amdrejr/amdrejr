@@ -5,13 +5,15 @@ Logo após terminar o **Ensino Médio** entrei em um curso **Técnico em Adm**, 
 
 ptei por sair do meu último emprego (área de **Customer Success**) para poder me dedicar mais na faculdade e nos meus estudos próprios, a fim de finalmente conseguir minha primeira oportunidade como **Dev. Front-End**!👨‍💻
 
-
-<a align="center" href="assets/docs/andre-jr-mello_curriculo.pdf" target="_blank">
-  <img src="assets/images/cv-button.png" alt="Download Curricullum" title="Baixe meu currículo">
-</a>
+<div align="center">
+  <a href="assets/docs/andre-jr-mello_curriculo.pdf" target="_blank">
+    <img src="assets/images/cv-button.png" alt="Download Curricullum" title="Baixe meu currículo">
+  </a>
+</div>
 
 ##
-<div>
+
+<div align="center">
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amdrejr&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amdrejr&layout=compact&show_icons=true&theme=radical)](https://github.com/amdrejr/github-readme-stats)
@@ -32,10 +34,10 @@ ptei por sair do meu último emprego (área de **Customer Success**) para poder 
   <img src="assets/images/icos/ico-flutter.png" alt="Flutter Ícone">
 </div>
 
-##
+<br>
 
 <div class="social-medias" align="center">
-  <h2>Minhas redes</h2> 
+  <h2>Minhas Redes</h2> 
   <a href="https://www.instagram.com/amdrejr/" target="_blank" title="Meu Instagram">
     <img src="assets/images/icos/instagram-ico.png" alt="Instagram Ícone">
   </a>&nbsp &nbsp
