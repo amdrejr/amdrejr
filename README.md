@@ -5,12 +5,14 @@ Logo após terminar o **Ensino Médio** entrei em um curso **Técnico em Adm**, 
 
 ptei por sair do meu último emprego (área de **Customer Success**) para poder me dedicar mais na faculdade e nos meus estudos próprios, a fim de finalmente conseguir minha primeira oportunidade como **Dev. Front-End**!👨‍💻
 
-<img src="assets/images/cv-button.png" alt="Download Curricullum" title="Baixe meu currículo">
+
+<a align="center" href="assets/docs/andre-jr-mello_curriculo.pdf" target="_blank">
+  <img src="assets/images/cv-button.png" alt="Download Curricullum" title="Baixe meu currículo">
+</a>
 
 ##
 <div>
-  <a href="https://amdrejr.github.io" target="_blank"/>
-  
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amdrejr&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amdrejr&layout=compact&show_icons=true&theme=radical)](https://github.com/amdrejr/github-readme-stats)
 </div>
