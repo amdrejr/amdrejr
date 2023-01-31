@@ -5,7 +5,8 @@ Logo após terminar o **Ensino Médio** entrei em um curso **Técnico em Adm**, 
 
 ptei por sair do meu último emprego (área de **Customer Success**) para poder me dedicar mais na faculdade e nos meus estudos próprios, a fim de finalmente conseguir minha primeira oportunidade como **Dev. Front-End**!👨‍💻
 
-<!-- ### Para mais infos sobre mim, acesse -> https://amdrejr.github.io/ -->
+<img src="assets/images/cv-button.png" alt="Download Curricullum" title="Baixe meu currículo">
+
 ##
 <div>
   <a href="https://amdrejr.github.io" target="_blank"/>
