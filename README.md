@@ -17,6 +17,9 @@ Visto que hoje em dia, a <strong>computação em nuvem</strong> ☁ é uma das t
   <a href="assets/docs/andre-jr-mello_curriculo.pdf" target="_blank">
     <img src="assets/images/cv-button.png" alt="Download Curricullum" title="Baixe meu currículo">
   </a>
+  <a href="https://amdrejr.github.io/" target="_blank">
+    <img src="assets/images/my-portfolio.png" alt="My Portfolio" title="Visite My Portfolio">
+  </a>
 </div>
 
 ##
@@ -30,16 +33,30 @@ Visto que hoje em dia, a <strong>computação em nuvem</strong> ☁ é uma das t
 
 
 <div class="languages" align="center">
-  <h2>Linguagens</h2>
-  <img src="assets/images/icos/ico-javascript.png" alt="JavaScript Ícone"> &nbsp &nbsp
-  <img src="assets/images/icos/ico-css.png" alt="CSS Ícone"> &nbsp &nbsp
+  <h2>Minhas Stacks de Desenvolvimento</h2>
+  <h3>Front-End</h3>
   <img src="assets/images/icos/ico-html.png" alt="HTML Ícone"> &nbsp &nbsp
-  <br>
-  <br>
-  <img src="assets/images/icos/ico-python.png" alt="Python Ícone"> &nbsp &nbsp
+  <img src="assets/images/icos/ico-css.png" alt="CSS Ícone"> &nbsp &nbsp
+  <img src="assets/images/icos/ico-javascript.png" alt="JavaScript Ícone"> &nbsp &nbsp
+  <img src="assets/images/icos/angular.png" alt="Angular Ícone"> &nbsp &nbsp
   <img src="assets/images/icos/ico-react.png" alt="React Ícone"> &nbsp &nbsp
-  <img src="assets/images/icos/ico-react-native.png" alt="React-Native Ícone"> &nbsp &nbsp
-  <img src="assets/images/icos/ico-flutter.png" alt="Flutter Ícone">
+  <br>
+  <br>
+  <h3>Back-End</h3>
+  <img src="assets/images/icos/ico-java.png" alt="Java Ícone"> &nbsp &nbsp
+  <img src="assets/images/icos/ico-spring.png" alt="Spring Ícone"> &nbsp &nbsp
+  <img src="assets/images/icos/ico-jsp.png" alt="Servlet/JSP Ícone">
+  <img src="assets/images/icos/ico-node.png" alt="Node.js Ícone"> &nbsp &nbsp
+  <br>
+  <br>
+  <h3>Mobile</h3>
+  <img src="assets/images/icos/ico-flutter.png" alt="Flutter Ícone"> &nbsp &nbsp
+  <img src="assets/images/icos/ico-react-native.png" alt="React Native Ícone"> &nbsp &nbsp
+  <br>
+  <br>
+  <h3>Plataforma na Núvem</h3>
+  <img src="assets/images/icos/ico-aws.png" alt="AWS Ícone"> &nbsp &nbsp
+  <img src="assets/images/icos/ico-azure.png" alt="Azure Ícone"> &nbsp &nbsp
 </div>
 
 <br>
