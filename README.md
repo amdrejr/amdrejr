@@ -13,51 +13,56 @@ Atualmente, estou cursando <strong>Engenharia de Computação</strong>, adquirin
 Visto que hoje em dia, a <strong>computação em nuvem</strong> ☁ é uma das tecnologias mais importantes, busquei por compreender melhor esse universo e conquistei a certificação <strong><a href="https://www.credly.com/badges/ab479f03-26c4-4ce1-b87a-b97815039d5e/public_url" target="_blank">AWS Cloud Practitioner</a></strong>. Essa realização fortaleceu ainda mais minha base de conhecimento e meu compromisso em acompanhar as inovações tecnológicas.
 Também estou fazendo 2 cursos preparatórios no <strong>SENAI</strong> para obter as certificações <strong>AZ-900</strong> e <strong>AI-900</strong> da Microsoft Azure.
 
-
 <div align="center">
   <a href="assets/docs/andre-jr-mello_curriculo.pdf" target="_blank">
     <img src="assets/images/cv-button.png" alt="Download Curricullum" title="Baixe meu currículo">
   </a>
+  &nbsp
   <a href="https://amdrejr.github.io/" target="_blank">
     <img src="assets/images/my-portfolio.png" alt="My Portfolio" title="Visite My Portfolio">
   </a>
 </div>
 
-##
+<hr>
+
+<img align="right" style="image-rendering: pixelated;" height="25" src="assets/images/amdrejr-grafite.gif"  />
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+<hr>
+
+<img src="https://i2.wp.com/mir-s3-cdn-cf.behance.net/project_modules/hd/0ab4b036812305.572a1cada9fdc.gif" height="100%" />
 
 <div align="center">
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amdrejr&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amdrejr&layout=compact&show_icons=true&theme=radical)](https://github.com/amdrejr/github-readme-stats)
-</div>
-
-
-
-<div class="languages" align="center">
-  <h2>Minhas Stacks de Desenvolvimento</h2>
-  <h3>Front-End</h3>
-  <img src="assets/images/icos/ico-html.png" alt="HTML Ícone"> &nbsp &nbsp
-  <img src="assets/images/icos/ico-css.png" alt="CSS Ícone"> &nbsp &nbsp
-  <img src="assets/images/icos/ico-javascript.png" alt="JavaScript Ícone"> &nbsp &nbsp
-  <img src="assets/images/icos/angular.png" alt="Angular Ícone"> &nbsp &nbsp
-  <img src="assets/images/icos/ico-react.png" alt="React Ícone"> &nbsp &nbsp
-  <br>
-  <br>
-  <h3>Back-End</h3>
-  <img src="assets/images/icos/ico-java.png" alt="Java Ícone"> &nbsp &nbsp
-  <img src="assets/images/icos/ico-spring.png" alt="Spring Ícone"> &nbsp &nbsp
-  <img src="assets/images/icos/ico-jsp.png" alt="Servlet/JSP Ícone">
-  <img src="assets/images/icos/ico-node.png" alt="Node.js Ícone"> &nbsp &nbsp
-  <br>
-  <br>
-  <h3>Mobile</h3>
-  <img src="assets/images/icos/ico-flutter.png" alt="Flutter Ícone"> &nbsp &nbsp
-  <img src="assets/images/icos/ico-react-native.png" alt="React Native Ícone"> &nbsp &nbsp
-  <br>
-  <br>
-  <h3>Plataforma na Núvem</h3>
-  <img src="assets/images/icos/ico-aws.png" alt="AWS Ícone"> &nbsp &nbsp
-  <img src="assets/images/icos/ico-azure.png" alt="Azure Ícone"> &nbsp &nbsp
 </div>
 
 <br>
@@ -74,3 +79,6 @@ Também estou fazendo 2 cursos preparatórios no <strong>SENAI</strong> para obt
     <img src="assets/images/icos/github-ico.png" alt="Github Ícone">
   </a>
 </div>
+
+
+
