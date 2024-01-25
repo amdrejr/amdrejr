@@ -8,9 +8,10 @@ Optei por sair do meu último emprego (área de **Customer Success**) para poder
 
 Olá! Me chamo André Jr Mello e sou apaixonado por <strong>tecnologia</strong> e <strong>programação</strong>! 🚀
 
-Atualmente, estou cursando <strong>Engenharia de Computação</strong>, adquirindo conhecimentos sólidos em programação, redes e sistemas embarcados. Paralelamente, estou realizando o curso <strong>Técnico em Manutenção e Suporte em Informática</strong> para aprofundar minhas habilidades em suporte técnico e solução de problemas computacionais. Além disso, tenho formação em <strong>Técnico em Administração</strong>, que me proporcionou uma visão abrangente de negócios e habilidades colaborativas. 👨‍💻
+Atualmente, estou cursando <strong>Engenharia de Computação</strong>, adquirindo conhecimentos sólidos em programação, redes e sistemas embarcados. Sou formano no curso <strong>Técnico em Manutenção e Suporte em Informática</strong> onde pude aprofundar minhas habilidades em suporte técnico e solução de problemas computacionais. Além disso, também tenho formação em <strong>Técnico em Administração</strong>, que me proporcionou uma visão abrangente de negócios e habilidades colaborativas. 👨‍💻
 
-Visto que hoje em dia, a <strong>computação em nuvem</strong> ☁ é uma das tecnologias mais importantes, busquei por compreender melhor esse universo e conquistei a certificação <strong><a href="https://www.credly.com/badges/ab479f03-26c4-4ce1-b87a-b97815039d5e/public_url" target="_blank">AWS Cloud Practitioner</a></strong>. Essa realização fortaleceu ainda mais minha base de conhecimento e meu compromisso em acompanhar as inovações tecnológicas. 
+Visto que hoje em dia, a <strong>computação em nuvem</strong> ☁ é uma das tecnologias mais importantes, busquei por compreender melhor esse universo e conquistei a certificação <strong><a href="https://www.credly.com/badges/ab479f03-26c4-4ce1-b87a-b97815039d5e/public_url" target="_blank">AWS Cloud Practitioner</a></strong>. Essa realização fortaleceu ainda mais minha base de conhecimento e meu compromisso em acompanhar as inovações tecnológicas.
+Também estou fazendo 2 cursos preparatórios no <strong>SENAI</strong> para obter as certificações <strong>AZ-900</strong> e <strong>AI-900</strong> da Microsoft Azure.
 
 
 <div align="center">
