@@ -1,17 +1,17 @@
 # Hi there!
-<!-- Me chamo André, sou um **Engenheiro de Computação** em formação, sou apaixonado por tecnologia e sempre busco me inteirar e aprender sobre esse universo **fascinante!**
 
-Logo após terminar o **Ensino Médio** entrei em um curso **Técnico em Adm**, logo após concluir, iniciei a graduação em **Eng. de Computação** com uma bolsa 100% que consegui, na qual sigo cursando atualmente. Não pretendo parar tão cedo nos estudos, já tenho planos para pós-graduação a até intercâmbio futuramente!🌎
+Atualmente, estou atuando no desenvolvimento de sistemas integrados, combinando meus conhecimentos em engenharia de software (**frontend** e **backend**) com soluções de **IA generativa** e **engenharia de dados**!
 
-Optei por sair do meu último emprego (área de **Customer Success**) para poder me dedicar mais na faculdade e nos meus estudos próprios, a fim de finalmente conseguir minha primeira oportunidade como **Dev. Front-End**!👨‍💻 -->
+### Stacks
+- **Data**: Databricks, Apache Spark, SQL, Power BI, Tableau
+- **Generative AI**: LangChain, DialogFlow CX
+- **Front-end**: Angular, React
+- **Back-end**: FastAPI, Spring Boot, Node.js
+- **Mobile**: Flutter, React Native
+- **Cloud**: GCP, AWS, Azure
 
-
-Olá! Me chamo André Jr Mello e sou apaixonado por <strong>tecnologia</strong> e <strong>programação</strong>! 🚀
-
-Atualmente, estou cursando <strong>Engenharia de Computação</strong>, adquirindo conhecimentos sólidos em programação, redes e sistemas embarcados. Sou formano no curso <strong>Técnico em Manutenção e Suporte em Informática</strong> onde pude aprofundar minhas habilidades em suporte técnico e solução de problemas computacionais. Além disso, também tenho formação em <strong>Técnico em Administração</strong>, que me proporcionou uma visão abrangente de negócios e habilidades colaborativas. 👨‍💻
-
-Visto que hoje em dia, a <strong>computação em nuvem</strong> ☁ é uma das tecnologias mais importantes, busquei por compreender melhor esse universo e conquistei a certificação <strong><a href="https://www.credly.com/badges/ab479f03-26c4-4ce1-b87a-b97815039d5e/public_url" target="_blank">AWS Cloud Practitioner</a></strong>. Essa realização fortaleceu ainda mais minha base de conhecimento e meu compromisso em acompanhar as inovações tecnológicas.
-Também estou fazendo 2 cursos preparatórios no <strong>SENAI</strong> para obter as certificações <strong>AZ-900</strong> e <strong>AI-900</strong> da Microsoft Azure.
+### Certificações
+- AWS Cloud Practitioner
 
 <div align="center">
   <a href="assets/docs/andre-jr-mello_curriculo.pdf" target="_blank">
